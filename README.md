@@ -3,6 +3,7 @@
 This keylogger script logs all keystrokes typed by the user into a text file (keyfile11.txt). It leverages the pynput library to monitor keyboard input in real time.
 
 How it works:
+
     1. Keyboard Listener:
     The program uses the keyboard.Listener class from the pynput module to detect and record every keypress.
 
